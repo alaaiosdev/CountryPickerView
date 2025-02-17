@@ -475,9 +475,9 @@
 "code": "HN"
 },
 {
-"name": "Hong Kong",
+"name": "China/Hong Kong",
 "dial_code": "+852",
-"code": "HK"
+"code": "CN"
 },
 {
 "name": "Hungary",
@@ -625,9 +625,9 @@
 "code": "LU"
 },
 {
-"name": "Macao",
+"name": "China/Macao",
 "dial_code": "+853",
-"code": "MO"
+"code": "CN"
 },
 {
 "name": "Macedonia",
@@ -1070,9 +1070,9 @@
 "code": "SY"
 },
 {
-"name": "Taiwan",
+"name": "China/Taiwan",
 "dial_code": "+886",
-"code": "TW"
+"code": "CN"
 },
 {
 "name": "Tajikistan",
